@@ -1,0 +1,6 @@
+[submodule "workout-app-updated-back"]
+	path = workout-app-updated-back
+	url = https://github.com/Ray-227/workout-app-updated-back.git
+[submodule "workout-app-updated-front"]
+	path = workout-app-updated-front
+	url = https://github.com/Ray-227/workout-app-updated-front.git
