@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"(yarn back)\" \"(yarn front)\"",
-    "back": "cd ./back && yarn dev",
-    "front": "cd ./front && yarn dev"
+    "back": "cd ./workout-app-updated-back && yarn dev",
+    "front": "cd ./workout-app-updated-front && yarn dev"
   },
   "keywords": [],
   "author": "",
